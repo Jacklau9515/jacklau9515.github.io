@@ -1,0 +1,40 @@
+{
+    "projects": [
+         {
+            "title": "CMCA Geo-Wiki X",
+            "caption": "Web Portal",
+            "bgPic": "projects/1/cover.png",
+            "detail": {
+                "title": "Web-based Resourceful Tourism Map Search Engine",
+                "date": "December 2018-Now",
+                "description": "● Multiple-page web application based on Model-View-Controller Pattern.<br/>● Restful API based on .NET Core 3.1, Entity Framework 6, Repository pattern and Owin OAuth.<br/>● Fully responsive interface and compatible with all different devices. <br/>● Implement Authentication with Microsoft Active Directory and Routing.<br/>● Backend C# Unit Testing with NUnit and Moq.",
+                "slides": [
+                    "projects/1/1.png",
+                    "projects/1/2.png",
+                    "projects/1/3.png",
+                    "projects/1/4.png",
+                    "projects/1/5.png"
+                ],
+                "link": "https://geowikix.cmca.net.au/"
+            }
+        },
+        {
+            "title": "HemaX Trip Planner",
+            "caption": "Trip Management System",
+            "bgPic": "projects/2/cover.png",
+            "detail": {
+                "title": "An online interactive cloud and mobile based solution for the community to plan, socialise, share adventures.",
+                "date": "May 2018-November 2018",
+                "description": "● Multiple-page web application based on Model-View-Controller Pattern.<br/>● Restful API based on .NET Core 3.1, Entity Framework 6, Repository pattern and Owin OAuth.<br/>● Fully responsive interface and compatible with all different devices. <br/>● Implement Authentication with Microsoft Active Directory and Routing.<br/>● Backend C# Unit Testing with NUnit and Moq.",
+                "slides": [
+                    "projects/2/1.png",
+                    "projects/2/2.png",
+                    "projects/2/3.png",
+                    "projects/2/4.png",
+                    "projects/2/5.png"
+                ],
+                "link": "https://planner.hemax.com/"
+            }
+        }
+    ]
+}
