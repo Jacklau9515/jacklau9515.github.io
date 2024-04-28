@@ -60,7 +60,7 @@
             "bgPic": "projects/4/cover.png",
             "detail": {
                 "title": "Online store to buy and access digital standards.",
-                "date": "May 2018-November 2018",
+                "date": "May 2023-Now",
                 "description": "● Utilized: React.JS, Next.JS, C# .NET 6.0, PostgreSQL, Salesforce, MuleSoft, Segment, HubSpot, Microsoft Azure.<br/>● Restful API based on .NET Core 6, Entity Framework 6, Repository pattern and IAM Auth.<br/>● Fully responsive interface and compatible with all different devices. <br/>● Implement Authentication with Microsoft Active Directory and Routing.<br/>● Backend C# Unit Testing with NUnit and Moq.",
                 "slides": [
                     "projects/4/1.png",
