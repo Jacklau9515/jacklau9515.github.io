@@ -6,7 +6,7 @@
             "bgPic": "projects/1/cover.png",
             "detail": {
                 "title": "Web-based Resourceful Tourism Map Search Engine",
-                "date": "December 2018-Now",
+                "date": "December 2019-November 2021",
                 "description": "● Multiple-page web application based on Model-View-Controller Pattern.<br/>● Restful API based on .NET Core 3.1, Entity Framework 6, Repository pattern and Owin OAuth.<br/>● Fully responsive interface and compatible with all different devices. <br/>● Implement Authentication with Microsoft Active Directory and Routing.<br/>● Backend C# Unit Testing with NUnit and Moq.",
                 "slides": [
                     "projects/1/1.png",
@@ -24,7 +24,7 @@
             "bgPic": "projects/2/cover.png",
             "detail": {
                 "title": "An online interactive cloud and mobile based solution for the community to plan, socialise, share adventures.",
-                "date": "May 2018-November 2018",
+                "date": "May 2018-November 2019",
                 "description": "● Multiple-page web application based on Model-View-Controller Pattern.<br/>● Restful API based on .NET Core 3.1, Entity Framework 6, Repository pattern and Owin OAuth.<br/>● Fully responsive interface and compatible with all different devices. <br/>● Implement Authentication with Microsoft Active Directory and Routing.<br/>● Backend C# Unit Testing with NUnit and Moq.",
                 "slides": [
                     "projects/2/1.png",
@@ -34,6 +34,42 @@
                     "projects/2/5.png"
                 ],
                 "link": "https://planner.hemax.com/"
+            }
+        },
+		{
+            "title": "More with Core",
+            "caption": "Inventory Management System",
+            "bgPic": "projects/3/cover.png",
+            "detail": {
+                "title": "Online inventory distribution and management system.",
+                "date": "December 2021-February 2023",
+                "description": "● Utilized: React.JS, C# .NET 6.0, Python, MSSQL, Docker, Nginx, Azure Kubernetes Services, Azure DevOps, CI/CD Pipeline.<br/>● Restful API based on .NET Core 6, Entity Framework 6, Repository pattern and Owin OAuth.<br/>● Fully responsive interface and compatible with all different devices. <br/>● Implement Authentication with Microsoft Active Directory and Routing.<br/>● Backend C# Unit Testing with NUnit and Moq.",
+                "slides": [
+                    "projects/3/1.png",
+                    "projects/3/2.png",
+                    "projects/3/3.png",
+                    "projects/3/4.png",
+                    "projects/3/5.png"
+                ],
+                "link": "https://morewithcore.com/"
+            }
+        },
+		{
+            "title": "Standards Australia Store",
+            "caption": "Convenient solutions to buy and access standards",
+            "bgPic": "projects/4/cover.png",
+            "detail": {
+                "title": "Online store to buy and access digital standards.",
+                "date": "May 2018-November 2018",
+                "description": "● Utilized: React.JS, Next.JS, C# .NET 6.0, PostgreSQL, Salesforce, MuleSoft, Segment, HubSpot, Microsoft Azure.<br/>● Restful API based on .NET Core 6, Entity Framework 6, Repository pattern and IAM Auth.<br/>● Fully responsive interface and compatible with all different devices. <br/>● Implement Authentication with Microsoft Active Directory and Routing.<br/>● Backend C# Unit Testing with NUnit and Moq.",
+                "slides": [
+                    "projects/4/1.png",
+                    "projects/4/2.png",
+                    "projects/4/3.png",
+                    "projects/4/4.png",
+                    "projects/4/5.png"
+                ],
+                "link": "https://store.standards.org.au/"
             }
         }
     ]
